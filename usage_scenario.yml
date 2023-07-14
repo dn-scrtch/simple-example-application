@@ -2,7 +2,7 @@
 name: Test-Scenario
 author: David Negelen
 version: 1
-description: Defined test scenario for used in Green Coding Berlin automated tests.
+description: Testing
 
 services:
   Small_load_Container:
